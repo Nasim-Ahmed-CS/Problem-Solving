@@ -11,3 +11,4 @@
   <li>Get feedback from your teammates, professors, and other developers and also ask your question on Stack Overflow if possible. Try to learn from others’ guidelines and what they are handling those problems. A problem may be solved in several ways. So, don’t get disappointed if you can’t think like an expert. You need to stick to the problem and you will gradually become better and quicker in solving problems like others.</li>
   <li>Practice, Practice, and Practice.</li>
 </ul>
+<b>N.B: Try to follow the above steps always. If you still can’t get the problem solved, take a look at the solution below. Don’t just copy paste the code. It will kill your creativity. Try to enjoy contest programming and develop your skills.</b>
